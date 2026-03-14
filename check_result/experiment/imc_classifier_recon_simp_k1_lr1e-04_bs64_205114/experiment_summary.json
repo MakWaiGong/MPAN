@@ -1,0 +1,16 @@
+{
+  "experiment_id": "imc_classifier_recon_simp_k1_lr1e-04_bs64_205114",
+  "start_time": "2026-01-03T20:51:14.869464",
+  "end_time": "2026-01-03T20:51:52.480590",
+  "duration_seconds": 37.611126,
+  "final_metrics": {
+    "best_reconstruction_method": "probability_reconstruction",
+    "accuracy": 0.6294416243654822,
+    "balanced_accuracy": 0.6101373908577299,
+    "roc_auc": 0.8424448634892158,
+    "pr_auc": 0.6859596936459169,
+    "mcc": 0.4863884893708327,
+    "num_classes": 4,
+    "selected_modals": 1
+  }
+}
