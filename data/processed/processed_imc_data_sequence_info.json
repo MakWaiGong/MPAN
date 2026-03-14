@@ -1,0 +1,3926 @@
+[
+  {
+    "patient_id": "1",
+    "repetition": "1",
+    "sequence_id": "1_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "1",
+    "repetition": "3",
+    "sequence_id": "1_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "1",
+    "repetition": "5",
+    "sequence_id": "1_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "1",
+    "repetition": "9",
+    "sequence_id": "1_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "1",
+    "repetition": "15",
+    "sequence_id": "1_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "1",
+    "repetition": "17",
+    "sequence_id": "1_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "1",
+    "repetition": "19",
+    "sequence_id": "1_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "1",
+    "sequence_id": "2_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "3",
+    "sequence_id": "2_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "5",
+    "sequence_id": "2_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "7",
+    "sequence_id": "2_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "9",
+    "sequence_id": "2_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "11",
+    "sequence_id": "2_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "13",
+    "sequence_id": "2_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "15",
+    "sequence_id": "2_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "17",
+    "sequence_id": "2_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "2",
+    "repetition": "19",
+    "sequence_id": "2_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "1",
+    "sequence_id": "3_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "3",
+    "sequence_id": "3_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "5",
+    "sequence_id": "3_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "7",
+    "sequence_id": "3_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "9",
+    "sequence_id": "3_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "11",
+    "sequence_id": "3_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "13",
+    "sequence_id": "3_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "15",
+    "sequence_id": "3_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "17",
+    "sequence_id": "3_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "3",
+    "repetition": "19",
+    "sequence_id": "3_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "1",
+    "sequence_id": "4_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "3",
+    "sequence_id": "4_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "5",
+    "sequence_id": "4_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "7",
+    "sequence_id": "4_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "9",
+    "sequence_id": "4_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "11",
+    "sequence_id": "4_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "13",
+    "sequence_id": "4_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "15",
+    "sequence_id": "4_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "17",
+    "sequence_id": "4_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "4",
+    "repetition": "19",
+    "sequence_id": "4_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "5",
+    "repetition": "1",
+    "sequence_id": "5_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "5",
+    "repetition": "3",
+    "sequence_id": "5_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "5",
+    "repetition": "5",
+    "sequence_id": "5_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "5",
+    "repetition": "7",
+    "sequence_id": "5_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "5",
+    "repetition": "9",
+    "sequence_id": "5_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "5",
+    "repetition": "13",
+    "sequence_id": "5_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "5",
+    "repetition": "15",
+    "sequence_id": "5_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "5",
+    "repetition": "19",
+    "sequence_id": "5_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "6",
+    "repetition": "1",
+    "sequence_id": "6_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "6",
+    "repetition": "3",
+    "sequence_id": "6_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "6",
+    "repetition": "9",
+    "sequence_id": "6_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "6",
+    "repetition": "13",
+    "sequence_id": "6_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "6",
+    "repetition": "15",
+    "sequence_id": "6_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "7",
+    "repetition": "3",
+    "sequence_id": "7_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "7",
+    "repetition": "5",
+    "sequence_id": "7_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "7",
+    "repetition": "7",
+    "sequence_id": "7_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "7",
+    "repetition": "9",
+    "sequence_id": "7_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "7",
+    "repetition": "11",
+    "sequence_id": "7_11",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "7",
+    "repetition": "13",
+    "sequence_id": "7_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "7",
+    "repetition": "15",
+    "sequence_id": "7_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "7",
+    "repetition": "17",
+    "sequence_id": "7_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "7",
+    "repetition": "19",
+    "sequence_id": "7_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "1",
+    "sequence_id": "8_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "3",
+    "sequence_id": "8_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "5",
+    "sequence_id": "8_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "7",
+    "sequence_id": "8_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "9",
+    "sequence_id": "8_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "11",
+    "sequence_id": "8_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "13",
+    "sequence_id": "8_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "15",
+    "sequence_id": "8_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "17",
+    "sequence_id": "8_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "8",
+    "repetition": "19",
+    "sequence_id": "8_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "9",
+    "repetition": "3",
+    "sequence_id": "9_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "9",
+    "repetition": "5",
+    "sequence_id": "9_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "9",
+    "repetition": "7",
+    "sequence_id": "9_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "9",
+    "repetition": "9",
+    "sequence_id": "9_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "9",
+    "repetition": "11",
+    "sequence_id": "9_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "9",
+    "repetition": "13",
+    "sequence_id": "9_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "9",
+    "repetition": "15",
+    "sequence_id": "9_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "9",
+    "repetition": "17",
+    "sequence_id": "9_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "9",
+    "repetition": "19",
+    "sequence_id": "9_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "10",
+    "repetition": "1",
+    "sequence_id": "10_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "10",
+    "repetition": "3",
+    "sequence_id": "10_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "10",
+    "repetition": "7",
+    "sequence_id": "10_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "10",
+    "repetition": "9",
+    "sequence_id": "10_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "10",
+    "repetition": "13",
+    "sequence_id": "10_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "10",
+    "repetition": "17",
+    "sequence_id": "10_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "10",
+    "repetition": "19",
+    "sequence_id": "10_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "11",
+    "repetition": "1",
+    "sequence_id": "11_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "11",
+    "repetition": "5",
+    "sequence_id": "11_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "11",
+    "repetition": "7",
+    "sequence_id": "11_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "11",
+    "repetition": "9",
+    "sequence_id": "11_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "11",
+    "repetition": "13",
+    "sequence_id": "11_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "11",
+    "repetition": "15",
+    "sequence_id": "11_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "11",
+    "repetition": "19",
+    "sequence_id": "11_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "1",
+    "sequence_id": "12_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "3",
+    "sequence_id": "12_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "5",
+    "sequence_id": "12_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "7",
+    "sequence_id": "12_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "9",
+    "sequence_id": "12_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "11",
+    "sequence_id": "12_11",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "13",
+    "sequence_id": "12_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "15",
+    "sequence_id": "12_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "17",
+    "sequence_id": "12_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "12",
+    "repetition": "19",
+    "sequence_id": "12_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "13",
+    "repetition": "1",
+    "sequence_id": "13_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "13",
+    "repetition": "5",
+    "sequence_id": "13_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "13",
+    "repetition": "9",
+    "sequence_id": "13_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "13",
+    "repetition": "13",
+    "sequence_id": "13_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "13",
+    "repetition": "15",
+    "sequence_id": "13_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "13",
+    "repetition": "17",
+    "sequence_id": "13_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "14",
+    "repetition": "1",
+    "sequence_id": "14_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "14",
+    "repetition": "5",
+    "sequence_id": "14_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "14",
+    "repetition": "11",
+    "sequence_id": "14_11",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "15",
+    "repetition": "1",
+    "sequence_id": "15_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "15",
+    "repetition": "3",
+    "sequence_id": "15_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "15",
+    "repetition": "5",
+    "sequence_id": "15_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "15",
+    "repetition": "7",
+    "sequence_id": "15_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "15",
+    "repetition": "9",
+    "sequence_id": "15_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "15",
+    "repetition": "11",
+    "sequence_id": "15_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "15",
+    "repetition": "15",
+    "sequence_id": "15_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "15",
+    "repetition": "17",
+    "sequence_id": "15_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "16",
+    "repetition": "1",
+    "sequence_id": "16_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "16",
+    "repetition": "3",
+    "sequence_id": "16_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "16",
+    "repetition": "9",
+    "sequence_id": "16_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "16",
+    "repetition": "11",
+    "sequence_id": "16_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "16",
+    "repetition": "15",
+    "sequence_id": "16_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "16",
+    "repetition": "17",
+    "sequence_id": "16_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "17",
+    "repetition": "1",
+    "sequence_id": "17_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "17",
+    "repetition": "3",
+    "sequence_id": "17_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "17",
+    "repetition": "9",
+    "sequence_id": "17_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "17",
+    "repetition": "11",
+    "sequence_id": "17_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "17",
+    "repetition": "15",
+    "sequence_id": "17_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "17",
+    "repetition": "17",
+    "sequence_id": "17_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "18",
+    "repetition": "1",
+    "sequence_id": "18_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "18",
+    "repetition": "5",
+    "sequence_id": "18_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "18",
+    "repetition": "9",
+    "sequence_id": "18_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "18",
+    "repetition": "11",
+    "sequence_id": "18_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "18",
+    "repetition": "13",
+    "sequence_id": "18_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "18",
+    "repetition": "15",
+    "sequence_id": "18_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "1",
+    "sequence_id": "19_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "3",
+    "sequence_id": "19_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "5",
+    "sequence_id": "19_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "7",
+    "sequence_id": "19_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "9",
+    "sequence_id": "19_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "11",
+    "sequence_id": "19_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "13",
+    "sequence_id": "19_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "15",
+    "sequence_id": "19_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "17",
+    "sequence_id": "19_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "19",
+    "repetition": "19",
+    "sequence_id": "19_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "20",
+    "repetition": "1",
+    "sequence_id": "20_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "20",
+    "repetition": "5",
+    "sequence_id": "20_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "20",
+    "repetition": "7",
+    "sequence_id": "20_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "20",
+    "repetition": "9",
+    "sequence_id": "20_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "20",
+    "repetition": "11",
+    "sequence_id": "20_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "20",
+    "repetition": "13",
+    "sequence_id": "20_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "20",
+    "repetition": "15",
+    "sequence_id": "20_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "20",
+    "repetition": "17",
+    "sequence_id": "20_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "20",
+    "repetition": "19",
+    "sequence_id": "20_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "21",
+    "repetition": "1",
+    "sequence_id": "21_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "21",
+    "repetition": "5",
+    "sequence_id": "21_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "21",
+    "repetition": "7",
+    "sequence_id": "21_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "21",
+    "repetition": "9",
+    "sequence_id": "21_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "21",
+    "repetition": "11",
+    "sequence_id": "21_11",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "21",
+    "repetition": "13",
+    "sequence_id": "21_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "21",
+    "repetition": "15",
+    "sequence_id": "21_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "21",
+    "repetition": "17",
+    "sequence_id": "21_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "21",
+    "repetition": "19",
+    "sequence_id": "21_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "1",
+    "sequence_id": "22_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "3",
+    "sequence_id": "22_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "5",
+    "sequence_id": "22_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "7",
+    "sequence_id": "22_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "9",
+    "sequence_id": "22_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "11",
+    "sequence_id": "22_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "13",
+    "sequence_id": "22_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "15",
+    "sequence_id": "22_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "17",
+    "sequence_id": "22_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "22",
+    "repetition": "19",
+    "sequence_id": "22_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "23",
+    "repetition": "3",
+    "sequence_id": "23_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "23",
+    "repetition": "5",
+    "sequence_id": "23_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "23",
+    "repetition": "11",
+    "sequence_id": "23_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "23",
+    "repetition": "19",
+    "sequence_id": "23_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "1",
+    "sequence_id": "24_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "3",
+    "sequence_id": "24_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "5",
+    "sequence_id": "24_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "7",
+    "sequence_id": "24_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "9",
+    "sequence_id": "24_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "11",
+    "sequence_id": "24_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "13",
+    "sequence_id": "24_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "15",
+    "sequence_id": "24_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "17",
+    "sequence_id": "24_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "24",
+    "repetition": "19",
+    "sequence_id": "24_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "1",
+    "sequence_id": "25_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "3",
+    "sequence_id": "25_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "5",
+    "sequence_id": "25_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "7",
+    "sequence_id": "25_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "9",
+    "sequence_id": "25_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "11",
+    "sequence_id": "25_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "13",
+    "sequence_id": "25_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "15",
+    "sequence_id": "25_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "17",
+    "sequence_id": "25_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "25",
+    "repetition": "19",
+    "sequence_id": "25_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "1",
+    "sequence_id": "26_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "3",
+    "sequence_id": "26_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "5",
+    "sequence_id": "26_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "7",
+    "sequence_id": "26_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "9",
+    "sequence_id": "26_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "11",
+    "sequence_id": "26_11",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "13",
+    "sequence_id": "26_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "15",
+    "sequence_id": "26_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "17",
+    "sequence_id": "26_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "26",
+    "repetition": "19",
+    "sequence_id": "26_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "27",
+    "repetition": "5",
+    "sequence_id": "27_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "27",
+    "repetition": "7",
+    "sequence_id": "27_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "27",
+    "repetition": "11",
+    "sequence_id": "27_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "27",
+    "repetition": "13",
+    "sequence_id": "27_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "27",
+    "repetition": "15",
+    "sequence_id": "27_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "27",
+    "repetition": "17",
+    "sequence_id": "27_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "27",
+    "repetition": "19",
+    "sequence_id": "27_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "28",
+    "repetition": "1",
+    "sequence_id": "28_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "28",
+    "repetition": "7",
+    "sequence_id": "28_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "28",
+    "repetition": "15",
+    "sequence_id": "28_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "28",
+    "repetition": "19",
+    "sequence_id": "28_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "1",
+    "sequence_id": "29_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "3",
+    "sequence_id": "29_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "5",
+    "sequence_id": "29_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "7",
+    "sequence_id": "29_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "9",
+    "sequence_id": "29_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "11",
+    "sequence_id": "29_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "13",
+    "sequence_id": "29_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "15",
+    "sequence_id": "29_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "17",
+    "sequence_id": "29_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "29",
+    "repetition": "19",
+    "sequence_id": "29_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "1",
+    "sequence_id": "30_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "3",
+    "sequence_id": "30_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "5",
+    "sequence_id": "30_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "7",
+    "sequence_id": "30_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "9",
+    "sequence_id": "30_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "11",
+    "sequence_id": "30_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "13",
+    "sequence_id": "30_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "15",
+    "sequence_id": "30_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "17",
+    "sequence_id": "30_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "30",
+    "repetition": "19",
+    "sequence_id": "30_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "1",
+    "sequence_id": "31_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "3",
+    "sequence_id": "31_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "5",
+    "sequence_id": "31_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "7",
+    "sequence_id": "31_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "9",
+    "sequence_id": "31_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "11",
+    "sequence_id": "31_11",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "13",
+    "sequence_id": "31_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "15",
+    "sequence_id": "31_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "17",
+    "sequence_id": "31_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "31",
+    "repetition": "19",
+    "sequence_id": "31_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "32",
+    "repetition": "3",
+    "sequence_id": "32_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "32",
+    "repetition": "5",
+    "sequence_id": "32_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "32",
+    "repetition": "7",
+    "sequence_id": "32_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "32",
+    "repetition": "9",
+    "sequence_id": "32_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "32",
+    "repetition": "11",
+    "sequence_id": "32_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "32",
+    "repetition": "13",
+    "sequence_id": "32_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "32",
+    "repetition": "15",
+    "sequence_id": "32_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "32",
+    "repetition": "17",
+    "sequence_id": "32_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "32",
+    "repetition": "19",
+    "sequence_id": "32_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "1",
+    "sequence_id": "33_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "3",
+    "sequence_id": "33_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "5",
+    "sequence_id": "33_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "7",
+    "sequence_id": "33_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "9",
+    "sequence_id": "33_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "11",
+    "sequence_id": "33_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "13",
+    "sequence_id": "33_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "15",
+    "sequence_id": "33_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "17",
+    "sequence_id": "33_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "33",
+    "repetition": "19",
+    "sequence_id": "33_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "1",
+    "sequence_id": "34_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "3",
+    "sequence_id": "34_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "5",
+    "sequence_id": "34_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "7",
+    "sequence_id": "34_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "9",
+    "sequence_id": "34_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "11",
+    "sequence_id": "34_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "13",
+    "sequence_id": "34_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "15",
+    "sequence_id": "34_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "17",
+    "sequence_id": "34_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "34",
+    "repetition": "19",
+    "sequence_id": "34_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "1",
+    "sequence_id": "35_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "3",
+    "sequence_id": "35_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "5",
+    "sequence_id": "35_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "7",
+    "sequence_id": "35_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "9",
+    "sequence_id": "35_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "11",
+    "sequence_id": "35_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "13",
+    "sequence_id": "35_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "15",
+    "sequence_id": "35_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "17",
+    "sequence_id": "35_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "35",
+    "repetition": "19",
+    "sequence_id": "35_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "1",
+    "sequence_id": "36_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "3",
+    "sequence_id": "36_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "5",
+    "sequence_id": "36_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "7",
+    "sequence_id": "36_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "9",
+    "sequence_id": "36_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "11",
+    "sequence_id": "36_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "13",
+    "sequence_id": "36_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "15",
+    "sequence_id": "36_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "17",
+    "sequence_id": "36_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "36",
+    "repetition": "19",
+    "sequence_id": "36_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "1",
+    "sequence_id": "37_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "3",
+    "sequence_id": "37_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "5",
+    "sequence_id": "37_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "7",
+    "sequence_id": "37_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "9",
+    "sequence_id": "37_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "11",
+    "sequence_id": "37_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "13",
+    "sequence_id": "37_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "15",
+    "sequence_id": "37_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "17",
+    "sequence_id": "37_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "37",
+    "repetition": "19",
+    "sequence_id": "37_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "1",
+    "sequence_id": "38_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "3",
+    "sequence_id": "38_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "5",
+    "sequence_id": "38_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "7",
+    "sequence_id": "38_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "9",
+    "sequence_id": "38_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "11",
+    "sequence_id": "38_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "13",
+    "sequence_id": "38_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "15",
+    "sequence_id": "38_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "17",
+    "sequence_id": "38_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "38",
+    "repetition": "19",
+    "sequence_id": "38_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "39",
+    "repetition": "3",
+    "sequence_id": "39_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "39",
+    "repetition": "5",
+    "sequence_id": "39_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "39",
+    "repetition": "7",
+    "sequence_id": "39_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "39",
+    "repetition": "9",
+    "sequence_id": "39_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "39",
+    "repetition": "11",
+    "sequence_id": "39_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "39",
+    "repetition": "13",
+    "sequence_id": "39_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "39",
+    "repetition": "15",
+    "sequence_id": "39_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "39",
+    "repetition": "17",
+    "sequence_id": "39_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "39",
+    "repetition": "19",
+    "sequence_id": "39_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "1",
+    "sequence_id": "40_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "3",
+    "sequence_id": "40_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "5",
+    "sequence_id": "40_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "7",
+    "sequence_id": "40_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "9",
+    "sequence_id": "40_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "11",
+    "sequence_id": "40_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "13",
+    "sequence_id": "40_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "15",
+    "sequence_id": "40_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "17",
+    "sequence_id": "40_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "40",
+    "repetition": "19",
+    "sequence_id": "40_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "1",
+    "sequence_id": "41_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "3",
+    "sequence_id": "41_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "5",
+    "sequence_id": "41_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "7",
+    "sequence_id": "41_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "9",
+    "sequence_id": "41_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "11",
+    "sequence_id": "41_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "13",
+    "sequence_id": "41_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "15",
+    "sequence_id": "41_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "17",
+    "sequence_id": "41_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "41",
+    "repetition": "19",
+    "sequence_id": "41_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "1",
+    "sequence_id": "42_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "3",
+    "sequence_id": "42_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "5",
+    "sequence_id": "42_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "7",
+    "sequence_id": "42_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "9",
+    "sequence_id": "42_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "11",
+    "sequence_id": "42_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "13",
+    "sequence_id": "42_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "15",
+    "sequence_id": "42_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "17",
+    "sequence_id": "42_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "42",
+    "repetition": "19",
+    "sequence_id": "42_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "1",
+    "sequence_id": "43_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "3",
+    "sequence_id": "43_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "5",
+    "sequence_id": "43_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "7",
+    "sequence_id": "43_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "9",
+    "sequence_id": "43_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "11",
+    "sequence_id": "43_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "13",
+    "sequence_id": "43_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "15",
+    "sequence_id": "43_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "17",
+    "sequence_id": "43_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "43",
+    "repetition": "19",
+    "sequence_id": "43_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "44",
+    "repetition": "1",
+    "sequence_id": "44_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "44",
+    "repetition": "13",
+    "sequence_id": "44_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "44",
+    "repetition": "15",
+    "sequence_id": "44_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "44",
+    "repetition": "17",
+    "sequence_id": "44_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "44",
+    "repetition": "19",
+    "sequence_id": "44_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "45",
+    "repetition": "3",
+    "sequence_id": "45_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "45",
+    "repetition": "5",
+    "sequence_id": "45_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "45",
+    "repetition": "7",
+    "sequence_id": "45_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "45",
+    "repetition": "9",
+    "sequence_id": "45_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "45",
+    "repetition": "11",
+    "sequence_id": "45_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "45",
+    "repetition": "13",
+    "sequence_id": "45_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "45",
+    "repetition": "15",
+    "sequence_id": "45_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "45",
+    "repetition": "17",
+    "sequence_id": "45_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "45",
+    "repetition": "19",
+    "sequence_id": "45_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "1",
+    "sequence_id": "46_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "3",
+    "sequence_id": "46_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "5",
+    "sequence_id": "46_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "7",
+    "sequence_id": "46_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "9",
+    "sequence_id": "46_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "11",
+    "sequence_id": "46_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "13",
+    "sequence_id": "46_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "15",
+    "sequence_id": "46_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "17",
+    "sequence_id": "46_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "46",
+    "repetition": "19",
+    "sequence_id": "46_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "1",
+    "sequence_id": "47_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "3",
+    "sequence_id": "47_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "5",
+    "sequence_id": "47_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "7",
+    "sequence_id": "47_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "9",
+    "sequence_id": "47_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "11",
+    "sequence_id": "47_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "13",
+    "sequence_id": "47_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "15",
+    "sequence_id": "47_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "17",
+    "sequence_id": "47_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "47",
+    "repetition": "19",
+    "sequence_id": "47_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "1",
+    "sequence_id": "48_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "3",
+    "sequence_id": "48_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "5",
+    "sequence_id": "48_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "7",
+    "sequence_id": "48_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "9",
+    "sequence_id": "48_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "11",
+    "sequence_id": "48_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "13",
+    "sequence_id": "48_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "15",
+    "sequence_id": "48_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "17",
+    "sequence_id": "48_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "48",
+    "repetition": "19",
+    "sequence_id": "48_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "49",
+    "repetition": "1",
+    "sequence_id": "49_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "49",
+    "repetition": "3",
+    "sequence_id": "49_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "49",
+    "repetition": "5",
+    "sequence_id": "49_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "49",
+    "repetition": "9",
+    "sequence_id": "49_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "49",
+    "repetition": "11",
+    "sequence_id": "49_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "49",
+    "repetition": "13",
+    "sequence_id": "49_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "49",
+    "repetition": "17",
+    "sequence_id": "49_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "49",
+    "repetition": "19",
+    "sequence_id": "49_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "50",
+    "repetition": "1",
+    "sequence_id": "50_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "50",
+    "repetition": "3",
+    "sequence_id": "50_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "50",
+    "repetition": "5",
+    "sequence_id": "50_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "50",
+    "repetition": "7",
+    "sequence_id": "50_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "50",
+    "repetition": "9",
+    "sequence_id": "50_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "50",
+    "repetition": "11",
+    "sequence_id": "50_11",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "50",
+    "repetition": "13",
+    "sequence_id": "50_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "50",
+    "repetition": "15",
+    "sequence_id": "50_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "50",
+    "repetition": "17",
+    "sequence_id": "50_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "1",
+    "sequence_id": "51_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "3",
+    "sequence_id": "51_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "5",
+    "sequence_id": "51_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "7",
+    "sequence_id": "51_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "9",
+    "sequence_id": "51_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "11",
+    "sequence_id": "51_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "13",
+    "sequence_id": "51_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "15",
+    "sequence_id": "51_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "17",
+    "sequence_id": "51_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "51",
+    "repetition": "19",
+    "sequence_id": "51_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "1",
+    "sequence_id": "53_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "3",
+    "sequence_id": "53_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "5",
+    "sequence_id": "53_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "7",
+    "sequence_id": "53_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "9",
+    "sequence_id": "53_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "11",
+    "sequence_id": "53_11",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "13",
+    "sequence_id": "53_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "15",
+    "sequence_id": "53_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "17",
+    "sequence_id": "53_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "53",
+    "repetition": "19",
+    "sequence_id": "53_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "1",
+    "sequence_id": "54_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "3",
+    "sequence_id": "54_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "5",
+    "sequence_id": "54_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "7",
+    "sequence_id": "54_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "9",
+    "sequence_id": "54_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "11",
+    "sequence_id": "54_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "13",
+    "sequence_id": "54_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "15",
+    "sequence_id": "54_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "17",
+    "sequence_id": "54_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "54",
+    "repetition": "19",
+    "sequence_id": "54_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "1",
+    "sequence_id": "55_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "3",
+    "sequence_id": "55_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "5",
+    "sequence_id": "55_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "7",
+    "sequence_id": "55_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "9",
+    "sequence_id": "55_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "11",
+    "sequence_id": "55_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "13",
+    "sequence_id": "55_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "15",
+    "sequence_id": "55_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "17",
+    "sequence_id": "55_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "55",
+    "repetition": "19",
+    "sequence_id": "55_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "56",
+    "repetition": "3",
+    "sequence_id": "56_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "56",
+    "repetition": "5",
+    "sequence_id": "56_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "56",
+    "repetition": "7",
+    "sequence_id": "56_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "56",
+    "repetition": "9",
+    "sequence_id": "56_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "56",
+    "repetition": "11",
+    "sequence_id": "56_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "56",
+    "repetition": "13",
+    "sequence_id": "56_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "56",
+    "repetition": "17",
+    "sequence_id": "56_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "56",
+    "repetition": "19",
+    "sequence_id": "56_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "1",
+    "sequence_id": "57_1",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "3",
+    "sequence_id": "57_3",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "5",
+    "sequence_id": "57_5",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "7",
+    "sequence_id": "57_7",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "9",
+    "sequence_id": "57_9",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "11",
+    "sequence_id": "57_11",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "13",
+    "sequence_id": "57_13",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "15",
+    "sequence_id": "57_15",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "17",
+    "sequence_id": "57_17",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "57",
+    "repetition": "19",
+    "sequence_id": "57_19",
+    "imc_type": "a"
+  },
+  {
+    "patient_id": "58",
+    "repetition": "1",
+    "sequence_id": "58_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "58",
+    "repetition": "3",
+    "sequence_id": "58_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "58",
+    "repetition": "7",
+    "sequence_id": "58_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "58",
+    "repetition": "9",
+    "sequence_id": "58_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "58",
+    "repetition": "13",
+    "sequence_id": "58_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "58",
+    "repetition": "17",
+    "sequence_id": "58_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "58",
+    "repetition": "19",
+    "sequence_id": "58_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "1",
+    "sequence_id": "59_1",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "3",
+    "sequence_id": "59_3",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "5",
+    "sequence_id": "59_5",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "7",
+    "sequence_id": "59_7",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "9",
+    "sequence_id": "59_9",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "11",
+    "sequence_id": "59_11",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "13",
+    "sequence_id": "59_13",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "15",
+    "sequence_id": "59_15",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "17",
+    "sequence_id": "59_17",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "59",
+    "repetition": "19",
+    "sequence_id": "59_19",
+    "imc_type": "c"
+  },
+  {
+    "patient_id": "60",
+    "repetition": "1",
+    "sequence_id": "60_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "60",
+    "repetition": "3",
+    "sequence_id": "60_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "60",
+    "repetition": "5",
+    "sequence_id": "60_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "60",
+    "repetition": "7",
+    "sequence_id": "60_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "60",
+    "repetition": "9",
+    "sequence_id": "60_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "1",
+    "sequence_id": "61_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "3",
+    "sequence_id": "61_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "5",
+    "sequence_id": "61_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "7",
+    "sequence_id": "61_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "9",
+    "sequence_id": "61_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "11",
+    "sequence_id": "61_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "13",
+    "sequence_id": "61_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "15",
+    "sequence_id": "61_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "17",
+    "sequence_id": "61_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "61",
+    "repetition": "19",
+    "sequence_id": "61_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "1",
+    "sequence_id": "62_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "3",
+    "sequence_id": "62_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "5",
+    "sequence_id": "62_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "7",
+    "sequence_id": "62_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "9",
+    "sequence_id": "62_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "11",
+    "sequence_id": "62_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "13",
+    "sequence_id": "62_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "15",
+    "sequence_id": "62_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "17",
+    "sequence_id": "62_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "19",
+    "sequence_id": "62_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "21",
+    "sequence_id": "62_21",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "23",
+    "sequence_id": "62_23",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "25",
+    "sequence_id": "62_25",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "27",
+    "sequence_id": "62_27",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "29",
+    "sequence_id": "62_29",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "31",
+    "sequence_id": "62_31",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "33",
+    "sequence_id": "62_33",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "35",
+    "sequence_id": "62_35",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "37",
+    "sequence_id": "62_37",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "39",
+    "sequence_id": "62_39",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "41",
+    "sequence_id": "62_41",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "43",
+    "sequence_id": "62_43",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "45",
+    "sequence_id": "62_45",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "47",
+    "sequence_id": "62_47",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "49",
+    "sequence_id": "62_49",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "51",
+    "sequence_id": "62_51",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "53",
+    "sequence_id": "62_53",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "55",
+    "sequence_id": "62_55",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "57",
+    "sequence_id": "62_57",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "62",
+    "repetition": "59",
+    "sequence_id": "62_59",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "1",
+    "sequence_id": "64_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "3",
+    "sequence_id": "64_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "5",
+    "sequence_id": "64_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "7",
+    "sequence_id": "64_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "9",
+    "sequence_id": "64_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "11",
+    "sequence_id": "64_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "13",
+    "sequence_id": "64_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "15",
+    "sequence_id": "64_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "17",
+    "sequence_id": "64_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "64",
+    "repetition": "19",
+    "sequence_id": "64_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "1",
+    "sequence_id": "65_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "3",
+    "sequence_id": "65_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "5",
+    "sequence_id": "65_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "7",
+    "sequence_id": "65_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "9",
+    "sequence_id": "65_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "11",
+    "sequence_id": "65_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "13",
+    "sequence_id": "65_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "15",
+    "sequence_id": "65_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "17",
+    "sequence_id": "65_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "65",
+    "repetition": "19",
+    "sequence_id": "65_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "66",
+    "repetition": "1",
+    "sequence_id": "66_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "66",
+    "repetition": "5",
+    "sequence_id": "66_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "66",
+    "repetition": "7",
+    "sequence_id": "66_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "66",
+    "repetition": "9",
+    "sequence_id": "66_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "66",
+    "repetition": "11",
+    "sequence_id": "66_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "66",
+    "repetition": "13",
+    "sequence_id": "66_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "66",
+    "repetition": "15",
+    "sequence_id": "66_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "66",
+    "repetition": "17",
+    "sequence_id": "66_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "66",
+    "repetition": "19",
+    "sequence_id": "66_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "1",
+    "sequence_id": "67_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "3",
+    "sequence_id": "67_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "5",
+    "sequence_id": "67_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "7",
+    "sequence_id": "67_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "9",
+    "sequence_id": "67_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "11",
+    "sequence_id": "67_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "13",
+    "sequence_id": "67_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "15",
+    "sequence_id": "67_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "17",
+    "sequence_id": "67_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "67",
+    "repetition": "19",
+    "sequence_id": "67_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "1",
+    "sequence_id": "68_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "3",
+    "sequence_id": "68_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "5",
+    "sequence_id": "68_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "7",
+    "sequence_id": "68_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "9",
+    "sequence_id": "68_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "11",
+    "sequence_id": "68_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "13",
+    "sequence_id": "68_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "15",
+    "sequence_id": "68_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "17",
+    "sequence_id": "68_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "68",
+    "repetition": "19",
+    "sequence_id": "68_19",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "1",
+    "sequence_id": "69_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "3",
+    "sequence_id": "69_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "5",
+    "sequence_id": "69_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "7",
+    "sequence_id": "69_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "9",
+    "sequence_id": "69_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "11",
+    "sequence_id": "69_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "13",
+    "sequence_id": "69_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "15",
+    "sequence_id": "69_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "17",
+    "sequence_id": "69_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "69",
+    "repetition": "19",
+    "sequence_id": "69_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "1",
+    "sequence_id": "70_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "3",
+    "sequence_id": "70_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "5",
+    "sequence_id": "70_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "7",
+    "sequence_id": "70_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "9",
+    "sequence_id": "70_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "11",
+    "sequence_id": "70_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "13",
+    "sequence_id": "70_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "15",
+    "sequence_id": "70_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "17",
+    "sequence_id": "70_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "70",
+    "repetition": "19",
+    "sequence_id": "70_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "71",
+    "repetition": "1",
+    "sequence_id": "71_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "71",
+    "repetition": "3",
+    "sequence_id": "71_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "71",
+    "repetition": "5",
+    "sequence_id": "71_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "71",
+    "repetition": "9",
+    "sequence_id": "71_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "71",
+    "repetition": "13",
+    "sequence_id": "71_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "71",
+    "repetition": "17",
+    "sequence_id": "71_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "1",
+    "sequence_id": "72_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "3",
+    "sequence_id": "72_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "5",
+    "sequence_id": "72_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "7",
+    "sequence_id": "72_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "9",
+    "sequence_id": "72_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "11",
+    "sequence_id": "72_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "13",
+    "sequence_id": "72_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "15",
+    "sequence_id": "72_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "17",
+    "sequence_id": "72_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "72",
+    "repetition": "19",
+    "sequence_id": "72_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "1",
+    "sequence_id": "73_1",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "3",
+    "sequence_id": "73_3",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "5",
+    "sequence_id": "73_5",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "7",
+    "sequence_id": "73_7",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "9",
+    "sequence_id": "73_9",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "11",
+    "sequence_id": "73_11",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "13",
+    "sequence_id": "73_13",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "15",
+    "sequence_id": "73_15",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "17",
+    "sequence_id": "73_17",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "73",
+    "repetition": "19",
+    "sequence_id": "73_19",
+    "imc_type": "b"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "1",
+    "sequence_id": "74_1",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "3",
+    "sequence_id": "74_3",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "5",
+    "sequence_id": "74_5",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "7",
+    "sequence_id": "74_7",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "9",
+    "sequence_id": "74_9",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "11",
+    "sequence_id": "74_11",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "13",
+    "sequence_id": "74_13",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "15",
+    "sequence_id": "74_15",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "17",
+    "sequence_id": "74_17",
+    "imc_type": "d"
+  },
+  {
+    "patient_id": "74",
+    "repetition": "19",
+    "sequence_id": "74_19",
+    "imc_type": "d"
+  }
+]
