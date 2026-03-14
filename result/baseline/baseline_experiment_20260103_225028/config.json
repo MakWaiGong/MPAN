@@ -1,0 +1,20 @@
+{
+  "experiment_name": "baseline_models_comparison",
+  "description": "各种基线模型性能比较实验",
+  "model_config": {
+    "k_modals": 8,
+    "test_size": 0.2,
+    "random_state": 42
+  },
+  "models": [
+    "SVM",
+    "RandomForest",
+    "GBM",
+    "KNN",
+    "LogisticRegression",
+    "MLP_sklearn",
+    "SimpleCNN",
+    "SimpleLSTM",
+    "SimpleMLP"
+  ]
+}

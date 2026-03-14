@@ -1,0 +1,36 @@
+{
+  "evaluation_time": "2026-01-12T23:15:15.666802",
+  "data_info": {
+    "total_samples": 654,
+    "train_samples": 457,
+    "validation_samples": 197,
+    "selected_modals": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      15,
+      16
+    ]
+  },
+  "traditional_multi_classifier": {
+    "accuracy": 0.6040609137055838,
+    "balanced_accuracy": 0.5535492638246875,
+    "roc_auc": 0.7631845959278243,
+    "f1": 0.5602405947945488,
+    "mcc": 0.44422841099325705
+  },
+  "probability_reconstruction": {
+    "accuracy": 0.8730964467005076,
+    "balanced_accuracy": 0.8570664269816812,
+    "roc_auc": 0.9453011763391233,
+    "f1": 0.8676683307731695,
+    "mcc": 0.8247578404051916
+  }
+}

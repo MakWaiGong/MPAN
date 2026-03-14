@@ -1,0 +1,14 @@
+{
+  "experiment_name": "imc_attention_classifier",
+  "description": "基于注意力机制的IMC多模态分类器实验",
+  "model_config": {
+    "reconstruction_method": "simple_normalize",
+    "num_modals": 2,
+    "modal_selection": "fisher_ratio_top_8"
+  },
+  "training_config": {
+    "learning_rate": 0.0001,
+    "batch_size": 16,
+    "num_epochs": 100
+  }
+}

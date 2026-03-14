@@ -1,0 +1,6 @@
+{
+  "experiment_id": "baseline_experiment_20260118_091420",
+  "total_models": 10,
+  "successful_models": 10,
+  "best_model": "RandomForest"
+}
