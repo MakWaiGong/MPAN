@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # MPAN - Multi-modal Probabilistic Attention Network
 
-多模态概率注意力网络 | 多模态分类框架
-
 ---
 
 ## English Version
